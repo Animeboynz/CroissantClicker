@@ -7,9 +7,9 @@ Why not swap it out for some croissant fun?
 xD
 
 <p float="left">
-  <img src="Images/Main Menu.png" alt="MainMenu" width="275" />
-  <img src="Images/Upgrades.png" alt="Upgrades" width="275" /> 
-  <img src="Images/Themes.png" alt="Themes" width="275" />
+  <img src="Images/Main Menu.png" alt="MainMenu" width="270" />
+  <img src="Images/Upgrades.png" alt="Upgrades" width="270" /> 
+  <img src="Images/Themes.png" alt="Themes" width="270" />
 </p>
 
 ## Installation
