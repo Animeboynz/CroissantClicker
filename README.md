@@ -16,8 +16,9 @@ xD
 
 #### Using Windows?
 ```
-Do to [releases](https://github.com/Animeboynz/CroissantClicker/releases) and download the zip.
+Do to releases and download the zip.
 ```
+[releases](https://github.com/Animeboynz/CroissantClicker/releases)
 #### Using a Mac?
 
 ```
